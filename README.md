@@ -13,9 +13,12 @@ This project involves identifying edible mushrooms using various features such a
 
 ## How i made it <img src="https://user-images.githubusercontent.com/72274851/222215141-6ced575e-414b-4088-bd99-d78921f80f66.png" width="60" height="60"> 
 
-✅ The dataset used in this project is the Mushroom Dataset by ULRIK THYGE PEDERSEN. !
-✅ It contains 8124 entries of mushrooms and their physical charecteristics with edible or poisonous label.!
-✅ Use a heatmap to analyse co-relation!![image](https://user-images.githubusercontent.com/114347910/222526078-9a088f08-47dc-4ba7-b09e-59730ec272f4.png)!
+✅ The dataset used in this project is the Mushroom Dataset by ULRIK THYGE PEDERSEN. 
+
+✅ It contains 8124 entries of mushrooms and their physical charecteristics with edible or poisonous label.
+
+✅ Use a heatmap to analyse co-relation!![image](https://user-images.githubusercontent.com/114347910/222526078-9a088f08-47dc-4ba7-b09e-59730ec272f4.png)
+
 ✅ Analyse relations between other charecteristics and edibility ![image](https://user-images.githubusercontent.com/114347910/222526329-a25c770f-439e-4919-995b-adf57db14dcb.png)
 ![image](https://user-images.githubusercontent.com/114347910/222526373-26608b87-02d7-4440-9009-2ac0d4a61390.png)
 ![image](https://user-images.githubusercontent.com/114347910/222526425-807ec884-68f7-4b23-91b6-3792fe6b6518.png)
