@@ -1,4 +1,4 @@
-# Mushroom-Edibility-Decision
+# Mushroom-Edibility-Decision-using-OneDAL
 
 
 ![image](https://images.pexels.com/photos/168140/pexels-photo-168140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
